@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smarttailorshopwebsite/static/css/main.e6c13ad2.css",
-    "main.js": "/smarttailorshopwebsite/static/js/main.70a25a7d.js",
+    "main.js": "/smarttailorshopwebsite/static/js/main.6d04231c.js",
     "static/js/787.ba246c25.chunk.js": "/smarttailorshopwebsite/static/js/787.ba246c25.chunk.js",
     "static/media/img.svg": "/smarttailorshopwebsite/static/media/img.358ae013a0956f9b1f4e58f3b6fa8aac.svg",
     "static/media/CustomerManagement.svg": "/smarttailorshopwebsite/static/media/CustomerManagement.1340efaa12096f47c27c614da3175783.svg",
@@ -14,11 +14,11 @@
     "static/media/OneTimeMeasurement.svg": "/smarttailorshopwebsite/static/media/OneTimeMeasurement.f65d8b2e352f32fd1e4c9a66347f07b2.svg",
     "index.html": "/smarttailorshopwebsite/index.html",
     "main.e6c13ad2.css.map": "/smarttailorshopwebsite/static/css/main.e6c13ad2.css.map",
-    "main.70a25a7d.js.map": "/smarttailorshopwebsite/static/js/main.70a25a7d.js.map",
+    "main.6d04231c.js.map": "/smarttailorshopwebsite/static/js/main.6d04231c.js.map",
     "787.ba246c25.chunk.js.map": "/smarttailorshopwebsite/static/js/787.ba246c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.70a25a7d.js"
+    "static/js/main.6d04231c.js"
   ]
 }
